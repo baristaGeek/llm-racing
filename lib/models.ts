@@ -12,8 +12,8 @@ export const MODELS: ModelConfig[] = [
     emoji: '🟢',
   },
   {
-    id: 'claude-haiku-4-5-20251001',
-    name: 'Claude Haiku 4.5',
+    id: 'claude-3-haiku-20240307',
+    name: 'Claude 3 Haiku',
     provider: 'anthropic',
     color: '#ff6b6b',
     dimColor: 'rgba(255,107,107,0.15)',
